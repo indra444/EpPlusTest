@@ -1,0 +1,10 @@
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\EPPlusTest.exe.config
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\EPPlusTest.exe
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\EPPlusTest.pdb
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\EPPlus.dll
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\EPPlus.xml
+C:\indra\Projects\EPPlusTest\EPPlusTest\obj\Debug\EPPlusTest.csprojResolveAssemblyReference.cache
+C:\indra\Projects\EPPlusTest\EPPlusTest\obj\Debug\EPPlusTest.exe
+C:\indra\Projects\EPPlusTest\EPPlusTest\obj\Debug\EPPlusTest.pdb
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\DocumentFormat.OpenXml.dll
+C:\indra\Projects\EPPlusTest\EPPlusTest\bin\Debug\DocumentFormat.OpenXml.xml
