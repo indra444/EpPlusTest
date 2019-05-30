@@ -14,7 +14,7 @@ namespace EPPlusTest
 
             using (var package = new ExcelPackage())
             {
-                var path = "C:\\Users\\chn3\\Desktop\\KT on OSIS\\testExcel.xlsx";
+                var path = "C:\\Desktop\\KT on OSIS\\testExcel.xlsx";
                 var workSheet = package.Workbook.Worksheets.Add("TestWorksheet");
                 var workSheetHidden = package.Workbook.Worksheets.Add("TestWorksheetHidden");
 
